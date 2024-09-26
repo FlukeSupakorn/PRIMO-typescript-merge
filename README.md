@@ -11,12 +11,7 @@ Follow these steps to set up and run the project:
 ### Steps
 **Clone the Repository**
 ```bash
-   git clone https://github.com/FlukeSupakorn/typescript-merge-PRIMO.git
-```
-
-**Navigate to the Project Directory**
-```bash
-   cd typescript-merge
+   git clone https://github.com/FlukeSupakorn/PRIMO-typescript-merge.git
 ```
 
 **Install Dependencies**
@@ -41,7 +36,7 @@ Follow these steps to set up and run the project:
 
 ## Project Structure
 ```bash
-typescript-merge/
+PRIMO-typescript-merge/
 ├── src/
 │   ├── merge.ts
 │   └── index.ts
